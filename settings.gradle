@@ -1,0 +1,4 @@
+rootProject.name = '6.5.2'
+include 'db'
+include 'service'
+include 'api'
